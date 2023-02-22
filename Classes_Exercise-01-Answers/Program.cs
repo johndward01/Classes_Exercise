@@ -6,6 +6,8 @@ namespace Classes_Exercise_01_Answers
     {
         static void Main(string[] args)
         {
+            // DON'T FORGET TO CHECK THE ANSWERS IN THE OTHER FILES TOO!!!
+            
             #region// TODO: Create a public Employee class
 
             // Inside of the Employee class:
